@@ -1,4 +1,4 @@
-# Software-Development-Lifecycle
+# Software-Development-Lifecycle-Project
 
 In order to understand the users' issues and objectives, I conducted research using methods like surveys and interviews. Then, I distilled that knowledge into clear, practical requirements for your program. Because they concisely describe a feature from the viewpoint of the user, user stories are a valuable tool that enable the development team to concentrate on the "why" of a feature rather than the technical "what."
 
