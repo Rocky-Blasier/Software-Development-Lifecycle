@@ -1,6 +1,6 @@
 # Software-Development-Lifecycle
 
-In order to understand the users' issues and objectives, you conduct research using methods like surveys and interviews. Then, you distill that knowledge into clear, practical requirements for your program. Because they concisely describe a feature from the viewpoint of the user, user stories are a valuable tool that enable the development team to concentrate on the "why" of a feature rather than the technical "what."
+In order to understand the users' issues and objectives, I conducted research using methods like surveys and interviews. Then, I distilled that knowledge into clear, practical requirements for your program. Because they concisely describe a feature from the viewpoint of the user, user stories are a valuable tool that enable the development team to concentrate on the "why" of a feature rather than the technical "what."
 
 I carefully plan programs that repeat cycles of planning, coding, and testing so that I can improve and keep my flexibility. I want to use Agile methods like Scrum in the future to keep things moving and encourage team members to talk to each other. These are short development sprints and regular stand-up meetings.
 
